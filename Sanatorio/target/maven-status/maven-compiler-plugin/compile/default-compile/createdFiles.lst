@@ -1,0 +1,7 @@
+com\mycompany\sanatorio\PacienteAdulto.class
+com\mycompany\sanatorio\INutricion.class
+com\mycompany\sanatorio\Paciente.class
+com\mycompany\sanatorio\Sanatorio.class
+com\mycompany\sanatorio\IClinicaMedica.class
+com\mycompany\sanatorio\PacientePediatrico.class
+com\mycompany\sanatorio\PacienteInternado.class
